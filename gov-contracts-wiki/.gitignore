@@ -1,0 +1,4 @@
+# Raw source documents stay local: often large binaries, sometimes
+# copyrighted reference works. Only derived wiki notes get committed.
+raw/*
+!raw/README.md

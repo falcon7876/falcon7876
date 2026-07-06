@@ -19,7 +19,9 @@ gov-contracts-wiki/
 │   ├── summaries/       ← one page per raw source
 │   ├── contracts/       ← one page per contract / task order / IDIQ
 │   ├── entities/        ← agencies, offices, vendors, people
-│   └── concepts/        ← FAR/DFARS clauses, processes, recurring themes
+│   ├── concepts/        ← FAR/DFARS clauses, processes, recurring themes
+│   ├── cases/           ← GAO/COFC/CAFC decisions and board cases
+│   └── sources/         ← source maps for large reference works
 └── templates/           ← starting skeletons for each page type
 ```
 
@@ -75,6 +77,20 @@ material before summarizing it. When in doubt, ask before ingesting.
    ends, protest deadlines) into `deadlines.md`.
 5. Update `index.md`; append one line to `log.md`.
 
+### Ingest — large reference works (deskbooks, treatises, 100+ page guides)
+Do NOT exhaustively summarize. Instead:
+1. Read the table of contents (and index if present). Build a **source
+   map** page in `wiki/sources/` — chapter-by-chapter list of what the
+   work covers, with page ranges, so the wiki knows what's in it.
+2. Compile lazily: when a question or contract touches a topic the work
+   covers, read that chapter (in ~20-page passes), then write or enrich
+   the relevant `concepts/` and `cases/` pages, citing the work with
+   page numbers.
+3. The human may name priority chapters to compile up front.
+4. **Do not commit the reference PDF itself to git** — large binary,
+   likely copyrighted. It stays in `raw/` locally, gitignored. Only the
+   derived notes are committed.
+
 ### Query (human asks a question)
 1. Start from `index.md` to locate relevant pages; follow links.
 2. Answer with citations to wiki pages and underlying raw sources.
@@ -108,6 +124,14 @@ Report findings; fix the mechanical ones, ask about the judgment calls.
   which of our contracts include them), processes (option exercise, REA,
   closeout), and cross-contract themes. Cite the actual regulation
   (e.g., FAR 52.217-9) so claims are checkable.
+- **cases/**: one page per decision (GAO, COFC, CAFC, ASBCA/CBCA).
+  Include the full citation and date, the holding in one line, the facts
+  in 2-3 sentences, why it matters to our work, and links to affected
+  concepts/contracts. File by citation slug (e.g.,
+  `cases/gao-b-424012-gsh-of-alabama.md`).
+- **sources/**: one map page per large reference work — bibliographic
+  info, chapter list with page ranges, and a "compiled so far" checklist
+  linking to the concept/case pages derived from it.
 
 The wiki should compound: prefer updating an existing page over creating a
 near-duplicate, and prefer linking over repeating.
