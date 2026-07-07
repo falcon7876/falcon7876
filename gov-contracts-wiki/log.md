@@ -45,3 +45,7 @@ operation; never edit past entries.
 - 2026-07-07 — tranche 7 ingested: ch. 23 → concepts/ethics; ch. 24 →
   concepts/procurement-fraud; ch. 25 → concepts/labor-standards.
   Index and source map updated.
+- 2026-07-07 — tranche 8 ingested: ch. 26 →
+  concepts/competitive-sourcing-privatization; ch. 27 →
+  concepts/intellectual-property; ch. 28 →
+  concepts/construction-contracting. Index and source map updated.

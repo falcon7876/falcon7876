@@ -72,9 +72,9 @@ heading.
 | 23 | Ethics in Government Contracting | 1171–1194 | ch23-ethics-in-government-contracting.pdf | ☑ |
 | 24 | Procurement Fraud | 1195–1237 | ch24-procurement-fraud.pdf | ☑ |
 | 25 | Labor Standards | 1238–1277 | ch25-labor-standards.pdf | ☑ |
-| 26 | Competitive Sourcing, Insourcing, and Privatization | 1278–1296 | ch26-competitive-sourcing-insourcing-and-privatization.pdf | ☐ |
-| 27 | Intellectual Property | 1297–1361 | ch27-intellectual-property.pdf | ☐ |
-| 28 | Construction Contracting | 1362–1401 | ch28-construction-contracting.pdf | ☐ |
+| 26 | Competitive Sourcing, Insourcing, and Privatization | 1278–1296 | ch26-competitive-sourcing-insourcing-and-privatization.pdf | ☑ |
+| 27 | Intellectual Property | 1297–1361 | ch27-intellectual-property.pdf | ☑ |
+| 28 | Construction Contracting | 1362–1401 | ch28-construction-contracting.pdf | ☑ |
 | 29 | Contingency and Deployment Contracting | 1402–1438 | ch29-contingency-and-deployment-contracting.pdf | ☐ |
 | 30 | Contingency Contractor Personnel | 1439–1467 | ch30-contingency-contractor-personnel.pdf | ☐ |
 | 31 | Army Nonappropriated Fund Contracting | 1468–1512 | ch31-army-nonappropriated-fund-contracting.pdf | ☐ |
@@ -106,6 +106,9 @@ heading.
 - ch. 23 → [ethics](../concepts/ethics.md) (2026-07-07)
 - ch. 24 → [procurement-fraud](../concepts/procurement-fraud.md) (2026-07-07)
 - ch. 25 → [labor-standards](../concepts/labor-standards.md) (2026-07-07)
+- ch. 26 → [competitive-sourcing-privatization](../concepts/competitive-sourcing-privatization.md) (2026-07-07)
+- ch. 27 → [intellectual-property](../concepts/intellectual-property.md) (2026-07-07)
+- ch. 28 → [construction-contracting](../concepts/construction-contracting.md) (2026-07-07)
 
 ## Notes for the agent
 - Compile lazily per the reference-work rules in `CLAUDE.md`: read a
