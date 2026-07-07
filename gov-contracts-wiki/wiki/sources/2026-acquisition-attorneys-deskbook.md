@@ -48,9 +48,9 @@ heading.
 | 1 | Introduction to Government Contract Law | 14–27 | ch01-introduction-to-government-contract-law.pdf | ☐ |
 | 2 | Contract Format and the FAR (variant A) | 28–129 | ch02-contract-format-and-the-far.pdf | ☐ |
 | 3 | Contract Format and the FAR (variant B) | 130–234 | ch03-contract-format-and-the-far.pdf | ☐ |
-| 4 | Authority to Contract | 235–251 | ch04-authority-to-contract.pdf | ☐ |
-| 5 | Funding and Fund Limitations | 252–301 | ch05-funding-and-fund-limitations.pdf | ☐ |
-| 6 | Competition | 302–351 | ch06-competition.pdf | ☐ |
+| 4 | Authority to Contract | 235–251 | ch04-authority-to-contract.pdf | ☑ |
+| 5 | Funding and Fund Limitations | 252–301 | ch05-funding-and-fund-limitations.pdf | ☑ |
+| 6 | Competition | 302–351 | ch06-competition.pdf | ☑ |
 | 7 | Types of Contracts | 352–402 | ch07-types-of-contracts.pdf | ☑ |
 | 8 | Sealed Bidding | 403–447 | ch08-sealed-bidding.pdf | ☐ |
 | 9 | Negotiated Procurements and Source Selection | 448–528 | ch09-negotiated-procurements-and-source-selection.pdf | ☐ |
@@ -91,6 +91,9 @@ heading.
 - ch. 15B → [cofc-protest-litigation](../concepts/cofc-protest-litigation.md) (2026-07-07)
 - chs. 19A & 19B → [contract-disputes-act](../concepts/contract-disputes-act.md) (2026-07-07)
 - ch. 22 → [adr](../concepts/adr.md) (2026-07-07)
+- ch. 4 → [authority-to-contract](../concepts/authority-to-contract.md) (2026-07-07)
+- ch. 5 → [funding-and-fund-limitations](../concepts/funding-and-fund-limitations.md) (2026-07-07)
+- ch. 6 → [competition](../concepts/competition.md) (2026-07-07)
 
 ## Notes for the agent
 - Compile lazily per the reference-work rules in `CLAUDE.md`: read a

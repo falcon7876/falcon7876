@@ -29,3 +29,5 @@ operation; never edit past entries.
   → concepts/terminations. Index and source-map checklist updated.
 - 2026-07-07 — tranche 2 ingested: ch. 15B → concepts/cofc-protest-litigation;
   chs. 19A-19B → concepts/contract-disputes-act; ch. 22 → concepts/adr.
+- 2026-07-07 — tranche 3 ingested: ch. 4 → concepts/authority-to-contract;
+  ch. 5 → concepts/funding-and-fund-limitations; ch. 6 → concepts/competition.
