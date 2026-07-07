@@ -35,3 +35,7 @@ operation; never edit past entries.
   ch. 9 → concepts/negotiated-procurements; ch. 10 →
   concepts/simplified-acquisitions; ch. 11 →
   concepts/commercial-products-services. Index and source map updated.
+- 2026-07-07 — tranche 5 ingested: ch. 12 →
+  concepts/responsibility-timeliness-oci; ch. 13 →
+  concepts/contract-pricing; ch. 14 → concepts/socioeconomic-policies.
+  Index and source map updated.

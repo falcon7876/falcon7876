@@ -56,9 +56,9 @@ heading.
 | 9 | Negotiated Procurements and Source Selection | 448–528 | ch09-negotiated-procurements-and-source-selection.pdf | ☑ |
 | 10 | Simplified Acquisitions | 529–590 | ch10-simplified-acquisitions.pdf | ☑ |
 | 11 | Commercial Products and Commercial Services | 591–609 | ch11-commercial-products-and-commerical-services.pdf | ☑ |
-| 12 | Responsibility, Timeliness, and OCI | 610–662 | ch12-responsibility-timeliness-and.pdf | ☐ |
-| 13 | Contract Pricing | 663–756 | ch13-contract-pricing.pdf | ☐ |
-| 14 | Socioeconomic Policies | 757–804 | ch14-socioeconomic-policies.pdf | ☐ |
+| 12 | Responsibility, Timeliness, and OCI | 610–662 | ch12-responsibility-timeliness-and.pdf | ☑ |
+| 13 | Contract Pricing | 663–756 | ch13-contract-pricing.pdf | ☑ |
+| 14 | Socioeconomic Policies | 757–804 | ch14-socioeconomic-policies.pdf | ☑ |
 | 15A | Bid Protests (Agency and GAO) | 805–845 | ch15A-bid-protests-agency-and-gao.pdf | ☑ |
 | 15B | Contract Disputes Act & Bid Protest Litigation at COFC | 846–881 | ch15B-contract-disputes-act-and-bid-protest.pdf | ☑ |
 | 16 | Inspection, Acceptance, and Warranty | 882–906 | ch16-inspection-acceptance-and-warranty.pdf | ☐ |
@@ -98,6 +98,9 @@ heading.
 - ch. 9 → [negotiated-procurements](../concepts/negotiated-procurements.md) (2026-07-07)
 - ch. 10 → [simplified-acquisitions](../concepts/simplified-acquisitions.md) (2026-07-07)
 - ch. 11 → [commercial-products-services](../concepts/commercial-products-services.md) (2026-07-07)
+- ch. 12 → [responsibility-timeliness-oci](../concepts/responsibility-timeliness-oci.md) (2026-07-07)
+- ch. 13 → [contract-pricing](../concepts/contract-pricing.md) (2026-07-07)
+- ch. 14 → [socioeconomic-policies](../concepts/socioeconomic-policies.md) (2026-07-07)
 
 ## Notes for the agent
 - Compile lazily per the reference-work rules in `CLAUDE.md`: read a
