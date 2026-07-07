@@ -31,3 +31,7 @@ operation; never edit past entries.
   chs. 19A-19B → concepts/contract-disputes-act; ch. 22 → concepts/adr.
 - 2026-07-07 — tranche 3 ingested: ch. 4 → concepts/authority-to-contract;
   ch. 5 → concepts/funding-and-fund-limitations; ch. 6 → concepts/competition.
+- 2026-07-07 — tranche 4 ingested: ch. 8 → concepts/sealed-bidding;
+  ch. 9 → concepts/negotiated-procurements; ch. 10 →
+  concepts/simplified-acquisitions; ch. 11 →
+  concepts/commercial-products-services. Index and source map updated.
