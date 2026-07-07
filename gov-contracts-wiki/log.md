@@ -39,3 +39,6 @@ operation; never edit past entries.
   concepts/responsibility-timeliness-oci; ch. 13 →
   concepts/contract-pricing; ch. 14 → concepts/socioeconomic-policies.
   Index and source map updated.
+- 2026-07-07 — tranche 6 ingested: ch. 16 →
+  concepts/inspection-acceptance-warranty; ch. 17 →
+  concepts/contract-payment. Index and source map updated.

@@ -61,8 +61,8 @@ heading.
 | 14 | Socioeconomic Policies | 757–804 | ch14-socioeconomic-policies.pdf | ☑ |
 | 15A | Bid Protests (Agency and GAO) | 805–845 | ch15A-bid-protests-agency-and-gao.pdf | ☑ |
 | 15B | Contract Disputes Act & Bid Protest Litigation at COFC | 846–881 | ch15B-contract-disputes-act-and-bid-protest.pdf | ☑ |
-| 16 | Inspection, Acceptance, and Warranty | 882–906 | ch16-inspection-acceptance-and-warranty.pdf | ☐ |
-| 17 | Contract Payment | 907–948 | ch17-contract-payment.pdf | ☐ |
+| 16 | Inspection, Acceptance, and Warranty | 882–906 | ch16-inspection-acceptance-and-warranty.pdf | ☑ |
+| 17 | Contract Payment | 907–948 | ch17-contract-payment.pdf | ☑ |
 | 18 | Contract Changes | 949–997 | ch18-contract-changes.pdf | ☑ |
 | 19A | Contract Disputes Act | 998–1053 | ch19A-contract-disputes-act.pdf | ☑ |
 | 19B | The Litigation Process | 1054–1072 | ch19B-the-litigation-process.pdf | ☑ |
@@ -101,6 +101,8 @@ heading.
 - ch. 12 → [responsibility-timeliness-oci](../concepts/responsibility-timeliness-oci.md) (2026-07-07)
 - ch. 13 → [contract-pricing](../concepts/contract-pricing.md) (2026-07-07)
 - ch. 14 → [socioeconomic-policies](../concepts/socioeconomic-policies.md) (2026-07-07)
+- ch. 16 → [inspection-acceptance-warranty](../concepts/inspection-acceptance-warranty.md) (2026-07-07)
+- ch. 17 → [contract-payment](../concepts/contract-payment.md) (2026-07-07)
 
 ## Notes for the agent
 - Compile lazily per the reference-work rules in `CLAUDE.md`: read a
