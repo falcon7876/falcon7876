@@ -16,3 +16,14 @@ operation; never edit past entries.
   3 volumes, 0 compiled). Full PDF not in raw/ yet — env limits capped
   extraction at front matter + ~3 chapters; deep compilation deferred to
   the local machine per reference-work rules.
+- 2026-07-07 — full Deskbook PDF obtained (via GitHub branch upload,
+  then removed from git; lives in gitignored raw/). Wrote and tested
+  scripts/split_deskbook.py; split the 1,651-page PDF into 37 chapter
+  PDFs + front matter in raw/deskbook-chapters/. Rebuilt the source-map
+  chapter table from actual in-book headings (the printed Summary of
+  Contents is stale; chs. 2 and 3 are near-duplicate "Contract Format
+  and the FAR" variants; Contract Changes is ch. 18).
+- 2026-07-07 — first compile tranche ingested (5 chapters → 4 concept
+  pages): ch. 7 → concepts/contract-types; ch. 15A →
+  concepts/bid-protests; ch. 18 → concepts/contract-changes; chs. 20-21
+  → concepts/terminations. Index and source-map checklist updated.

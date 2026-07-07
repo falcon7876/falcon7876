@@ -52,24 +52,37 @@ def outline_chapters(reader: PdfReader) -> list[tuple[int, str, str]]:
     return found
 
 
+HEADING_RE = re.compile(r"^\s*CHAPTER\s+(\d{1,2}\s?[AB]?)\b[ .:–—-]*(.*)$", re.IGNORECASE)
+
+
 def scanned_chapters(reader: PdfReader) -> list[tuple[int, str, str]]:
-    """Fallback: find pages whose top text starts a new chapter."""
+    """Fallback: find pages whose top text starts a new chapter.
+
+    Only a "CHAPTER N" that begins one of the first few lines of a page
+    counts — this skips mid-sentence statutory cross-references like
+    "41 U.S.C. Chapter 83" that a plain substring search would match.
+    """
     found = []
     seen = set()
     for i, page in enumerate(reader.pages):
         try:
-            head = (page.extract_text() or "")[:200]
+            lines = [l for l in (page.extract_text() or "").splitlines() if l.strip()]
         except Exception:
             continue
-        m = CHAPTER_RE.search(head)
-        if not m:
-            continue
-        num = m.group(1).replace(" ", "").upper()
-        # Only take the FIRST page where each chapter number appears as a
-        # heading; later hits are cross-references or running headers.
-        if num not in seen:
+        for li, line in enumerate(lines[:5]):
+            m = HEADING_RE.match(line)
+            if not m:
+                continue
+            num = m.group(1).replace(" ", "").upper()
+            if num in seen:
+                break
+            # Chapter title: rest of the heading line, else the next line.
+            title = m.group(2).strip()
+            if not title and li + 1 < len(lines):
+                title = lines[li + 1].strip()
             seen.add(num)
-            found.append((i, num, f"Chapter {num}"))
+            found.append((i, num, f"Chapter {num} {title}".strip()))
+            break
     return found
 
 
