@@ -42,3 +42,6 @@ operation; never edit past entries.
 - 2026-07-07 — tranche 6 ingested: ch. 16 →
   concepts/inspection-acceptance-warranty; ch. 17 →
   concepts/contract-payment. Index and source map updated.
+- 2026-07-07 — tranche 7 ingested: ch. 23 → concepts/ethics; ch. 24 →
+  concepts/procurement-fraud; ch. 25 → concepts/labor-standards.
+  Index and source map updated.

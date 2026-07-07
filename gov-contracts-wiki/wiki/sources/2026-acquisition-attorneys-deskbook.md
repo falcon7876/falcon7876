@@ -69,9 +69,9 @@ heading.
 | 20 | Contract Terminations for Convenience | 1073–1103 | ch20-contract-terminations-for-convenience.pdf | ☑ |
 | 21 | Contract Terminations for Default | 1104–1149 | ch21-contract-terminations-for-default.pdf | ☑ |
 | 22 | Alternative Dispute Resolution | 1150–1170 | ch22-alternative-dispute-resolution.pdf | ☑ |
-| 23 | Ethics in Government Contracting | 1171–1194 | ch23-ethics-in-government-contracting.pdf | ☐ |
-| 24 | Procurement Fraud | 1195–1237 | ch24-procurement-fraud.pdf | ☐ |
-| 25 | Labor Standards | 1238–1277 | ch25-labor-standards.pdf | ☐ |
+| 23 | Ethics in Government Contracting | 1171–1194 | ch23-ethics-in-government-contracting.pdf | ☑ |
+| 24 | Procurement Fraud | 1195–1237 | ch24-procurement-fraud.pdf | ☑ |
+| 25 | Labor Standards | 1238–1277 | ch25-labor-standards.pdf | ☑ |
 | 26 | Competitive Sourcing, Insourcing, and Privatization | 1278–1296 | ch26-competitive-sourcing-insourcing-and-privatization.pdf | ☐ |
 | 27 | Intellectual Property | 1297–1361 | ch27-intellectual-property.pdf | ☐ |
 | 28 | Construction Contracting | 1362–1401 | ch28-construction-contracting.pdf | ☐ |
@@ -103,6 +103,9 @@ heading.
 - ch. 14 → [socioeconomic-policies](../concepts/socioeconomic-policies.md) (2026-07-07)
 - ch. 16 → [inspection-acceptance-warranty](../concepts/inspection-acceptance-warranty.md) (2026-07-07)
 - ch. 17 → [contract-payment](../concepts/contract-payment.md) (2026-07-07)
+- ch. 23 → [ethics](../concepts/ethics.md) (2026-07-07)
+- ch. 24 → [procurement-fraud](../concepts/procurement-fraud.md) (2026-07-07)
+- ch. 25 → [labor-standards](../concepts/labor-standards.md) (2026-07-07)
 
 ## Notes for the agent
 - Compile lazily per the reference-work rules in `CLAUDE.md`: read a

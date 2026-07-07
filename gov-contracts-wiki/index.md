@@ -22,10 +22,13 @@ are marked *(example)* — delete them once real content exists.
 - [contract-payment](wiki/concepts/contract-payment.md) — Invoice vs. financing payments, progress/performance-based payments, Prompt Payment Act, EFT, assignment of claims, contract debts. (Deskbook ch. 17)
 - [contract-pricing](wiki/concepts/contract-pricing.md) — Fair-and-reasonable determinations, TINA/certified data, cost principles & CAS, defective pricing, equitable-adjustment quantum, Eichleay. (Deskbook ch. 13)
 - [contract-types](wiki/concepts/contract-types.md) — FFP→cost risk spectrum, options, ID/IQ mechanics, T&M, incentive contracts, selection rules. (Deskbook ch. 7)
+- [ethics](wiki/concepts/ethics.md) — Financial conflicts (18 U.S.C. 208), Procurement Integrity Act, post-employment bans (18 U.S.C. 207), DoD § 847 opinion letters. (Deskbook ch. 23)
 - [funding-and-fund-limitations](wiki/concepts/funding-and-fund-limitations.md) — Fiscal law: purpose/time/amount, bona fide needs, ADA, augmentation. (Deskbook ch. 5)
 - [inspection-acceptance-warranty](wiki/concepts/inspection-acceptance-warranty.md) — Inspection rights and remedies, strict vs. substantial compliance, finality of acceptance and its exceptions, warranties. (Deskbook ch. 16)
+- [labor-standards](wiki/concepts/labor-standards.md) — Davis-Bacon, Service Contract Act, CWHSSA, Walsh-Healey, Defense Base Act; wage determinations and price adjustments. (Deskbook ch. 25)
 - [far-52-217-9-option-to-extend](wiki/concepts/far-52-217-9-option-to-extend.md) — Option to Extend the Term of the Contract: what it requires and where it appears in our portfolio.
 - [negotiated-procurements](wiki/concepts/negotiated-procurements.md) — FAR Part 15: RFP structure, best-value continuum (tradeoff/LPTA/HTR-FRP), evaluation discipline, clarifications vs. negotiations, debriefings. (Deskbook ch. 9)
+- [procurement-fraud](wiki/concepts/procurement-fraud.md) — Fraud indicators, mandatory disclosure, False Claims Act & qui tam, suspension/debarment, the four coordinated remedies. (Deskbook ch. 24)
 - [responsibility-timeliness-oci](wiki/concepts/responsibility-timeliness-oci.md) — Responsibility standards & COC referrals, the late-is-late rule and its exceptions, and the three OCI types with mitigation. (Deskbook ch. 12)
 - [sealed-bidding](wiki/concepts/sealed-bidding.md) — FAR Part 14: the Racal factors, responsiveness at bid opening, bid mistakes, post-opening cancellation. (Deskbook ch. 8)
 - [simplified-acquisitions](wiki/concepts/simplified-acquisitions.md) — FAR Part 13 thresholds, RFQ offer/acceptance flip, BPAs, purchase cards, and FSS ordering rules. (Deskbook ch. 10)
@@ -33,7 +36,7 @@ are marked *(example)* — delete them once real content exists.
 - [terminations](wiki/concepts/terminations.md) — T4C (Krygoski standard, settlements, fiscal rules) and T4D (grounds, cure notices, defenses, excess reprocurement costs). (Deskbook chs. 20-21)
 
 ## Sources (reference works)
-- [2026-acquisition-attorneys-deskbook](wiki/sources/2026-acquisition-attorneys-deskbook.md) — TJAGLCS contract & fiscal law deskbook, 37 chapters, 1,651 pages, split into per-chapter PDFs; 21 chapters compiled (4-14, 15A, 15B, 16-18, 19A, 19B, 20-22).
+- [2026-acquisition-attorneys-deskbook](wiki/sources/2026-acquisition-attorneys-deskbook.md) — TJAGLCS contract & fiscal law deskbook, 37 chapters, 1,651 pages, split into per-chapter PDFs; 24 chapters compiled (4-14, 15A, 15B, 16-18, 19A, 19B, 20-25).
 
 ## Summaries
 - *(none yet — appears after the first ingest)*
