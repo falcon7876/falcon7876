@@ -13,5 +13,8 @@ are marked *(example)* — delete them once real content exists.
 ## Concepts
 - [far-52-217-9-option-to-extend](wiki/concepts/far-52-217-9-option-to-extend.md) — Option to Extend the Term of the Contract: what it requires and where it appears in our portfolio.
 
+## Sources (reference works)
+- [2026-acquisition-attorneys-deskbook](wiki/sources/2026-acquisition-attorneys-deskbook.md) — TJAGLCS contract & fiscal law deskbook, 35 chapters / 3 volumes; chapter map done, 0 chapters compiled.
+
 ## Summaries
 - *(none yet — appears after the first ingest)*
