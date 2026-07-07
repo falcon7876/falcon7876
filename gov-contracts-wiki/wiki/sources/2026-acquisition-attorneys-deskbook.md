@@ -60,15 +60,15 @@ heading.
 | 13 | Contract Pricing | 663–756 | ch13-contract-pricing.pdf | ☐ |
 | 14 | Socioeconomic Policies | 757–804 | ch14-socioeconomic-policies.pdf | ☐ |
 | 15A | Bid Protests (Agency and GAO) | 805–845 | ch15A-bid-protests-agency-and-gao.pdf | ☑ |
-| 15B | Contract Disputes Act & Bid Protest Litigation at COFC | 846–881 | ch15B-contract-disputes-act-and-bid-protest.pdf | ☐ |
+| 15B | Contract Disputes Act & Bid Protest Litigation at COFC | 846–881 | ch15B-contract-disputes-act-and-bid-protest.pdf | ☑ |
 | 16 | Inspection, Acceptance, and Warranty | 882–906 | ch16-inspection-acceptance-and-warranty.pdf | ☐ |
 | 17 | Contract Payment | 907–948 | ch17-contract-payment.pdf | ☐ |
 | 18 | Contract Changes | 949–997 | ch18-contract-changes.pdf | ☑ |
-| 19A | Contract Disputes Act | 998–1053 | ch19A-contract-disputes-act.pdf | ☐ |
-| 19B | The Litigation Process | 1054–1072 | ch19B-the-litigation-process.pdf | ☐ |
+| 19A | Contract Disputes Act | 998–1053 | ch19A-contract-disputes-act.pdf | ☑ |
+| 19B | The Litigation Process | 1054–1072 | ch19B-the-litigation-process.pdf | ☑ |
 | 20 | Contract Terminations for Convenience | 1073–1103 | ch20-contract-terminations-for-convenience.pdf | ☑ |
 | 21 | Contract Terminations for Default | 1104–1149 | ch21-contract-terminations-for-default.pdf | ☑ |
-| 22 | Alternative Dispute Resolution | 1150–1170 | ch22-alternative-dispute-resolution.pdf | ☐ |
+| 22 | Alternative Dispute Resolution | 1150–1170 | ch22-alternative-dispute-resolution.pdf | ☑ |
 | 23 | Ethics in Government Contracting | 1171–1194 | ch23-ethics-in-government-contracting.pdf | ☐ |
 | 24 | Procurement Fraud | 1195–1237 | ch24-procurement-fraud.pdf | ☐ |
 | 25 | Labor Standards | 1238–1277 | ch25-labor-standards.pdf | ☐ |
@@ -88,6 +88,9 @@ heading.
 - ch. 15A → [bid-protests](../concepts/bid-protests.md) (2026-07-07)
 - ch. 18 → [contract-changes](../concepts/contract-changes.md) (2026-07-07)
 - chs. 20 & 21 → [terminations](../concepts/terminations.md) (2026-07-07)
+- ch. 15B → [cofc-protest-litigation](../concepts/cofc-protest-litigation.md) (2026-07-07)
+- chs. 19A & 19B → [contract-disputes-act](../concepts/contract-disputes-act.md) (2026-07-07)
+- ch. 22 → [adr](../concepts/adr.md) (2026-07-07)
 
 ## Notes for the agent
 - Compile lazily per the reference-work rules in `CLAUDE.md`: read a

@@ -27,3 +27,5 @@ operation; never edit past entries.
   pages): ch. 7 → concepts/contract-types; ch. 15A →
   concepts/bid-protests; ch. 18 → concepts/contract-changes; chs. 20-21
   → concepts/terminations. Index and source-map checklist updated.
+- 2026-07-07 — tranche 2 ingested: ch. 15B → concepts/cofc-protest-litigation;
+  chs. 19A-19B → concepts/contract-disputes-act; ch. 22 → concepts/adr.
