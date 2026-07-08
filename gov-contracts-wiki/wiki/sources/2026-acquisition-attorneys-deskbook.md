@@ -29,10 +29,11 @@ acquisition, from formation through disputes and special topics.
   E.g., the SOC lists "Contract Law Research" (ch. 2) which does not
   exist in the body, and places Contract Changes at 17 when it is
   actually chapter 18.
-- **Chapters 2 and 3 are near-duplicate versions** of "Contract Format
-  and the FAR" — the 2026 edition appears caught mid-transition to the
-  FAR Overhaul (it cites "RFO FAR" provisions throughout). Compare both
-  before relying on either.
+- **Chapters 2 and 3 are duplicate printings** of "Contract Format and
+  the FAR" — verified by text comparison on 2026-07-08: the bodies are
+  verbatim identical (both already RFO-updated); only pagination and
+  PDF-extraction artifacts differ. Cite either chapter; there is no
+  substantive variant.
 - No plain chapter 15 or 19; protests are 15A/15B and disputes are
   19A/19B.
 
@@ -45,9 +46,9 @@ heading.
 | Ch. | Title | PDF pages | File in raw/deskbook-chapters/ | Compiled |
 |---|---|---|---|---|
 | — | Front matter (covers, SOC, biographies, preface) | 1–13 | ch00-front-matter.pdf | ☐ |
-| 1 | Introduction to Government Contract Law | 14–27 | ch01-introduction-to-government-contract-law.pdf | ☐ |
-| 2 | Contract Format and the FAR (variant A) | 28–129 | ch02-contract-format-and-the-far.pdf | ☐ |
-| 3 | Contract Format and the FAR (variant B) | 130–234 | ch03-contract-format-and-the-far.pdf | ☐ |
+| 1 | Introduction to Government Contract Law | 14–27 | ch01-introduction-to-government-contract-law.pdf | ☑ |
+| 2 | Contract Format and the FAR (duplicate printing) | 28–129 | ch02-contract-format-and-the-far.pdf | ☑ |
+| 3 | Contract Format and the FAR (duplicate printing) | 130–234 | ch03-contract-format-and-the-far.pdf | ☑ |
 | 4 | Authority to Contract | 235–251 | ch04-authority-to-contract.pdf | ☑ |
 | 5 | Funding and Fund Limitations | 252–301 | ch05-funding-and-fund-limitations.pdf | ☑ |
 | 6 | Competition | 302–351 | ch06-competition.pdf | ☑ |
@@ -115,6 +116,10 @@ heading.
 - ch. 33 → [other-transaction-authority](../concepts/other-transaction-authority.md) (2026-07-08)
 - ch. 34 → [partnership-agreements](../concepts/partnership-agreements.md) (2026-07-08)
 - ch. 35 → [government-information-practices](../concepts/government-information-practices.md) (2026-07-08)
+- ch. 1 → [government-contract-law-basics](../concepts/government-contract-law-basics.md) (2026-07-08)
+- chs. 2 & 3 → [contract-format-and-the-far](../concepts/contract-format-and-the-far.md) (2026-07-08)
+
+**All 37 chapters compiled** (front matter intentionally skipped).
 
 ## Notes for the agent
 - Compile lazily per the reference-work rules in `CLAUDE.md`: read a
@@ -126,4 +131,7 @@ heading.
   decisions load-bearing enough to come up again, and list the rest
   inline in concept pages.
 - Chapter 2/3 include a **sample solicitation/contract award review
-  checklist** attachment — worth its own concept page early.
+  checklist** attachment — summarized in
+  [contract-format-and-the-far](../concepts/contract-format-and-the-far.md);
+  consult the chapter PDF directly when the full sample solicitation
+  (Pentagon custodial PWS) is needed as a drafting model.

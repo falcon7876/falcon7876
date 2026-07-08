@@ -23,11 +23,13 @@ are marked *(example)* — delete them once real content exists.
 - [contract-changes](wiki/concepts/contract-changes.md) — Formal vs. constructive changes, the five constructive-change theories, in-scope vs. cardinal, fiscal effects. (Deskbook ch. 18)
 - [contingency-contracting](wiki/concepts/contingency-contracting.md) — Deployment contracting thresholds and theater machinery (FOOs, LOGCAP, boards) plus contractor-personnel status, CAAF, MEJA/UCMJ. (Deskbook chs. 29-30)
 - [contract-disputes-act](wiki/concepts/contract-disputes-act.md) — CDA claims: elements, certification, final decisions, board vs. COFC election, interest. (Deskbook chs. 19A-19B)
+- [contract-format-and-the-far](wiki/concepts/contract-format-and-the-far.md) — Uniform Contract Format (Sections A-M), the FAR/RFO system and numbering, legal-review triggers, and the contract-review checklist. (Deskbook chs. 2-3)
 - [contract-payment](wiki/concepts/contract-payment.md) — Invoice vs. financing payments, progress/performance-based payments, Prompt Payment Act, EFT, assignment of claims, contract debts. (Deskbook ch. 17)
 - [contract-pricing](wiki/concepts/contract-pricing.md) — Fair-and-reasonable determinations, TINA/certified data, cost principles & CAS, defective pricing, equitable-adjustment quantum, Eichleay. (Deskbook ch. 13)
 - [contract-types](wiki/concepts/contract-types.md) — FFP→cost risk spectrum, options, ID/IQ mechanics, T&M, incentive contracts, selection rules. (Deskbook ch. 7)
 - [ethics](wiki/concepts/ethics.md) — Financial conflicts (18 U.S.C. 208), Procurement Integrity Act, post-employment bans (18 U.S.C. 207), DoD § 847 opinion letters. (Deskbook ch. 23)
 - [funding-and-fund-limitations](wiki/concepts/funding-and-fund-limitations.md) — Fiscal law: purpose/time/amount, bona fide needs, ADA, augmentation. (Deskbook ch. 5)
+- [government-contract-law-basics](wiki/concepts/government-contract-law-basics.md) — Commercial vs. government contract law, the Christian doctrine clause rules, system objectives, the contract attorney's roles. (Deskbook ch. 1)
 - [government-information-practices](wiki/concepts/government-information-practices.md) — Classification/CUI, acquisition-information release policy, Privacy Act, and the nine FOIA exemptions in acquisition practice. (Deskbook ch. 35)
 - [inspection-acceptance-warranty](wiki/concepts/inspection-acceptance-warranty.md) — Inspection rights and remedies, strict vs. substantial compliance, finality of acceptance and its exceptions, warranties. (Deskbook ch. 16)
 - [intellectual-property](wiki/concepts/intellectual-property.md) — Data rights (DFARS 227/FAR 27), unlimited/GPR/limited licenses, assertion & marking practice, Bayh-Dole patents, 28 U.S.C. 1498. (Deskbook ch. 27)
@@ -45,7 +47,7 @@ are marked *(example)* — delete them once real content exists.
 - [terminations](wiki/concepts/terminations.md) — T4C (Krygoski standard, settlements, fiscal rules) and T4D (grounds, cure notices, defenses, excess reprocurement costs). (Deskbook chs. 20-21)
 
 ## Sources (reference works)
-- [2026-acquisition-attorneys-deskbook](wiki/sources/2026-acquisition-attorneys-deskbook.md) — TJAGLCS contract & fiscal law deskbook, 37 chapters, 1,651 pages, split into per-chapter PDFs; 34 chapters compiled (4-14, 15A, 15B, 16-18, 19A, 19B, 20-35).
+- [2026-acquisition-attorneys-deskbook](wiki/sources/2026-acquisition-attorneys-deskbook.md) — TJAGLCS contract & fiscal law deskbook, 37 chapters, 1,651 pages, split into per-chapter PDFs; all 37 chapters compiled.
 
 ## Summaries
 - *(none yet — appears after the first ingest)*

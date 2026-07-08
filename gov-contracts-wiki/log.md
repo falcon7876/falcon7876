@@ -57,3 +57,9 @@ operation; never edit past entries.
   created concepts/other-transaction-authority (ch. 33),
   concepts/partnership-agreements (ch. 34),
   concepts/government-information-practices (ch. 35); updated source map + index
+- 2026-07-08 — ingested Deskbook tranche 11 (chs. 1, 2/3, foundation) →
+  created concepts/government-contract-law-basics (ch. 1) and
+  concepts/contract-format-and-the-far (chs. 2-3, verified duplicate
+  printings); updated source map + index. ALL 37 Deskbook chapters now
+  compiled. Ran full wiki lint: 0 broken links (templates/CLAUDE.md
+  placeholders excepted), 0 orphan pages, index complete.
