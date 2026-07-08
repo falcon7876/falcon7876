@@ -53,3 +53,7 @@ operation; never edit past entries.
   created concepts/contingency-contracting (chs. 29-30),
   concepts/army-naf-contracting (ch. 31),
   concepts/interagency-transactions (ch. 32); updated source map + index
+- 2026-07-08 — ingested Deskbook tranche 10 (chs. 33-35, alternatives & info) →
+  created concepts/other-transaction-authority (ch. 33),
+  concepts/partnership-agreements (ch. 34),
+  concepts/government-information-practices (ch. 35); updated source map + index

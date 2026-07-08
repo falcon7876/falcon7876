@@ -79,9 +79,9 @@ heading.
 | 30 | Contingency Contractor Personnel | 1439–1467 | ch30-contingency-contractor-personnel.pdf | ☑ |
 | 31 | Army Nonappropriated Fund Contracting | 1468–1512 | ch31-army-nonappropriated-fund-contracting.pdf | ☑ |
 | 32 | Interagency Transactions | 1513–1543 | ch32-interagency-transactions.pdf | ☑ |
-| 33 | Other Transaction Authority | 1544–1583 | ch33-other-transaction-authority.pdf | ☐ |
-| 34 | Partnership Agreements | 1584–1623 | ch34-partnership-agreements.pdf | ☐ |
-| 35 | Government Information Practices | 1624–1651 | ch35-government-information-practices.pdf | ☐ |
+| 33 | Other Transaction Authority | 1544–1583 | ch33-other-transaction-authority.pdf | ☑ |
+| 34 | Partnership Agreements | 1584–1623 | ch34-partnership-agreements.pdf | ☑ |
+| 35 | Government Information Practices | 1624–1651 | ch35-government-information-practices.pdf | ☑ |
 
 ## Compiled so far
 - ch. 7 → [contract-types](../concepts/contract-types.md) (2026-07-07)
@@ -112,6 +112,9 @@ heading.
 - chs. 29 & 30 → [contingency-contracting](../concepts/contingency-contracting.md) (2026-07-07)
 - ch. 31 → [army-naf-contracting](../concepts/army-naf-contracting.md) (2026-07-07)
 - ch. 32 → [interagency-transactions](../concepts/interagency-transactions.md) (2026-07-07)
+- ch. 33 → [other-transaction-authority](../concepts/other-transaction-authority.md) (2026-07-08)
+- ch. 34 → [partnership-agreements](../concepts/partnership-agreements.md) (2026-07-08)
+- ch. 35 → [government-information-practices](../concepts/government-information-practices.md) (2026-07-08)
 
 ## Notes for the agent
 - Compile lazily per the reference-work rules in `CLAUDE.md`: read a

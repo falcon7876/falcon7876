@@ -28,12 +28,15 @@ are marked *(example)* — delete them once real content exists.
 - [contract-types](wiki/concepts/contract-types.md) — FFP→cost risk spectrum, options, ID/IQ mechanics, T&M, incentive contracts, selection rules. (Deskbook ch. 7)
 - [ethics](wiki/concepts/ethics.md) — Financial conflicts (18 U.S.C. 208), Procurement Integrity Act, post-employment bans (18 U.S.C. 207), DoD § 847 opinion letters. (Deskbook ch. 23)
 - [funding-and-fund-limitations](wiki/concepts/funding-and-fund-limitations.md) — Fiscal law: purpose/time/amount, bona fide needs, ADA, augmentation. (Deskbook ch. 5)
+- [government-information-practices](wiki/concepts/government-information-practices.md) — Classification/CUI, acquisition-information release policy, Privacy Act, and the nine FOIA exemptions in acquisition practice. (Deskbook ch. 35)
 - [inspection-acceptance-warranty](wiki/concepts/inspection-acceptance-warranty.md) — Inspection rights and remedies, strict vs. substantial compliance, finality of acceptance and its exceptions, warranties. (Deskbook ch. 16)
 - [intellectual-property](wiki/concepts/intellectual-property.md) — Data rights (DFARS 227/FAR 27), unlimited/GPR/limited licenses, assertion & marking practice, Bayh-Dole patents, 28 U.S.C. 1498. (Deskbook ch. 27)
 - [interagency-transactions](wiki/concepts/interagency-transactions.md) — Economy Act vs. project orders vs. non-Economy Act authorities (FSS, GWACs, franchise funds), D&Fs, deobligation rules, MIPR/G-Invoicing. (Deskbook ch. 32)
 - [labor-standards](wiki/concepts/labor-standards.md) — Davis-Bacon, Service Contract Act, CWHSSA, Walsh-Healey, Defense Base Act; wage determinations and price adjustments. (Deskbook ch. 25)
 - [far-52-217-9-option-to-extend](wiki/concepts/far-52-217-9-option-to-extend.md) — Option to Extend the Term of the Contract: what it requires and where it appears in our portfolio.
 - [negotiated-procurements](wiki/concepts/negotiated-procurements.md) — FAR Part 15: RFP structure, best-value continuum (tradeoff/LPTA/HTR-FRP), evaluation discipline, clarifications vs. negotiations, debriefings. (Deskbook ch. 9)
+- [other-transaction-authority](wiki/concepts/other-transaction-authority.md) — OTs under 10 U.S.C. 4021/4022: what law applies, participation/cost-share gates, follow-on production, consortia, protest/disputes jurisdiction. (Deskbook ch. 33)
+- [partnership-agreements](wiki/concepts/partnership-agreements.md) — Cooperative agreements, EPAs, CRADAs, PIAs, TIAs, fee-for-service, and IGSAs — the assistance and tech-transfer instruments. (Deskbook ch. 34)
 - [procurement-fraud](wiki/concepts/procurement-fraud.md) — Fraud indicators, mandatory disclosure, False Claims Act & qui tam, suspension/debarment, the four coordinated remedies. (Deskbook ch. 24)
 - [responsibility-timeliness-oci](wiki/concepts/responsibility-timeliness-oci.md) — Responsibility standards & COC referrals, the late-is-late rule and its exceptions, and the three OCI types with mitigation. (Deskbook ch. 12)
 - [sealed-bidding](wiki/concepts/sealed-bidding.md) — FAR Part 14: the Racal factors, responsiveness at bid opening, bid mistakes, post-opening cancellation. (Deskbook ch. 8)
@@ -42,7 +45,7 @@ are marked *(example)* — delete them once real content exists.
 - [terminations](wiki/concepts/terminations.md) — T4C (Krygoski standard, settlements, fiscal rules) and T4D (grounds, cure notices, defenses, excess reprocurement costs). (Deskbook chs. 20-21)
 
 ## Sources (reference works)
-- [2026-acquisition-attorneys-deskbook](wiki/sources/2026-acquisition-attorneys-deskbook.md) — TJAGLCS contract & fiscal law deskbook, 37 chapters, 1,651 pages, split into per-chapter PDFs; 31 chapters compiled (4-14, 15A, 15B, 16-18, 19A, 19B, 20-32).
+- [2026-acquisition-attorneys-deskbook](wiki/sources/2026-acquisition-attorneys-deskbook.md) — TJAGLCS contract & fiscal law deskbook, 37 chapters, 1,651 pages, split into per-chapter PDFs; 34 chapters compiled (4-14, 15A, 15B, 16-18, 19A, 19B, 20-35).
 
 ## Summaries
 - *(none yet — appears after the first ingest)*
