@@ -12,6 +12,7 @@ are marked *(example)* — delete them once real content exists.
 
 ## Concepts
 - [adr](wiki/concepts/adr.md) — ADR toolkit: mediation, mini-trials, outcome prediction, binding arbitration limits. (Deskbook ch. 22)
+- [army-naf-contracting](wiki/concepts/army-naf-contracting.md) — NAFI contracting under AR 215-4: no FAR/CICA/CDA, GAO protest gaps, the Slattery disputes landscape. (Deskbook ch. 31)
 - [authority-to-contract](wiki/concepts/authority-to-contract.md) — Who can bind the Government; ratification of unauthorized commitments. (Deskbook ch. 4)
 - [bid-protests](wiki/concepts/bid-protests.md) — Agency & GAO protests: standing, the timeliness traps, CICA stay/override mechanics, remedies and costs. (Deskbook ch. 15A)
 - [cofc-protest-litigation](wiki/concepts/cofc-protest-litigation.md) — Protests and CDA cases at the Court of Federal Claims: standing, Blue & Gold waiver, record review, injunctions. (Deskbook ch. 15B)
@@ -20,6 +21,7 @@ are marked *(example)* — delete them once real content exists.
 - [competitive-sourcing-privatization](wiki/concepts/competitive-sourcing-privatization.md) — A-76 moratorium, inherently governmental functions, insourcing (10 U.S.C. 2463), housing & utilities privatization. (Deskbook ch. 26)
 - [construction-contracting](wiki/concepts/construction-contracting.md) — FAR 36 delivery methods, Brooks Act A-E selection, Miller Act bonds, differing site conditions, liquidated damages. (Deskbook ch. 28)
 - [contract-changes](wiki/concepts/contract-changes.md) — Formal vs. constructive changes, the five constructive-change theories, in-scope vs. cardinal, fiscal effects. (Deskbook ch. 18)
+- [contingency-contracting](wiki/concepts/contingency-contracting.md) — Deployment contracting thresholds and theater machinery (FOOs, LOGCAP, boards) plus contractor-personnel status, CAAF, MEJA/UCMJ. (Deskbook chs. 29-30)
 - [contract-disputes-act](wiki/concepts/contract-disputes-act.md) — CDA claims: elements, certification, final decisions, board vs. COFC election, interest. (Deskbook chs. 19A-19B)
 - [contract-payment](wiki/concepts/contract-payment.md) — Invoice vs. financing payments, progress/performance-based payments, Prompt Payment Act, EFT, assignment of claims, contract debts. (Deskbook ch. 17)
 - [contract-pricing](wiki/concepts/contract-pricing.md) — Fair-and-reasonable determinations, TINA/certified data, cost principles & CAS, defective pricing, equitable-adjustment quantum, Eichleay. (Deskbook ch. 13)
@@ -28,6 +30,7 @@ are marked *(example)* — delete them once real content exists.
 - [funding-and-fund-limitations](wiki/concepts/funding-and-fund-limitations.md) — Fiscal law: purpose/time/amount, bona fide needs, ADA, augmentation. (Deskbook ch. 5)
 - [inspection-acceptance-warranty](wiki/concepts/inspection-acceptance-warranty.md) — Inspection rights and remedies, strict vs. substantial compliance, finality of acceptance and its exceptions, warranties. (Deskbook ch. 16)
 - [intellectual-property](wiki/concepts/intellectual-property.md) — Data rights (DFARS 227/FAR 27), unlimited/GPR/limited licenses, assertion & marking practice, Bayh-Dole patents, 28 U.S.C. 1498. (Deskbook ch. 27)
+- [interagency-transactions](wiki/concepts/interagency-transactions.md) — Economy Act vs. project orders vs. non-Economy Act authorities (FSS, GWACs, franchise funds), D&Fs, deobligation rules, MIPR/G-Invoicing. (Deskbook ch. 32)
 - [labor-standards](wiki/concepts/labor-standards.md) — Davis-Bacon, Service Contract Act, CWHSSA, Walsh-Healey, Defense Base Act; wage determinations and price adjustments. (Deskbook ch. 25)
 - [far-52-217-9-option-to-extend](wiki/concepts/far-52-217-9-option-to-extend.md) — Option to Extend the Term of the Contract: what it requires and where it appears in our portfolio.
 - [negotiated-procurements](wiki/concepts/negotiated-procurements.md) — FAR Part 15: RFP structure, best-value continuum (tradeoff/LPTA/HTR-FRP), evaluation discipline, clarifications vs. negotiations, debriefings. (Deskbook ch. 9)
@@ -39,7 +42,7 @@ are marked *(example)* — delete them once real content exists.
 - [terminations](wiki/concepts/terminations.md) — T4C (Krygoski standard, settlements, fiscal rules) and T4D (grounds, cure notices, defenses, excess reprocurement costs). (Deskbook chs. 20-21)
 
 ## Sources (reference works)
-- [2026-acquisition-attorneys-deskbook](wiki/sources/2026-acquisition-attorneys-deskbook.md) — TJAGLCS contract & fiscal law deskbook, 37 chapters, 1,651 pages, split into per-chapter PDFs; 27 chapters compiled (4-14, 15A, 15B, 16-18, 19A, 19B, 20-28).
+- [2026-acquisition-attorneys-deskbook](wiki/sources/2026-acquisition-attorneys-deskbook.md) — TJAGLCS contract & fiscal law deskbook, 37 chapters, 1,651 pages, split into per-chapter PDFs; 31 chapters compiled (4-14, 15A, 15B, 16-18, 19A, 19B, 20-32).
 
 ## Summaries
 - *(none yet — appears after the first ingest)*

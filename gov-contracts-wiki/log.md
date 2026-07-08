@@ -49,3 +49,7 @@ operation; never edit past entries.
   concepts/competitive-sourcing-privatization; ch. 27 →
   concepts/intellectual-property; ch. 28 →
   concepts/construction-contracting. Index and source map updated.
+- 2026-07-07 — ingested Deskbook tranche 9 (chs. 29-32, special topics II) →
+  created concepts/contingency-contracting (chs. 29-30),
+  concepts/army-naf-contracting (ch. 31),
+  concepts/interagency-transactions (ch. 32); updated source map + index
